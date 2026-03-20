@@ -4,11 +4,12 @@
 
 ## 在线试玩
 
-- WebGL Demo: [https://chaosflameme.github.io/GameJam2025/](https://chaosflameme.github.io/GameJam2025/)
+- WebGL Demo: [`在线游玩DEMO`](https://chaosflameme.github.io/GameJam2025/)
 
 ## 30 秒演示视频
 
-- 直接观看/下载：[`8_Ricochet_Arms_racesVideo30.mp4`](./8_Ricochet_Arms_racesVideo30.mp4)
+- 直接观看:[`30s演示视频`](https://github.com/user-attachments/assets/ea15be99-29e4-42c8-9f36-93c6e1beb968)
+- 下载：[`8_Ricochet_Arms_racesVideo30.mp4`](./8_Ricochet_Arms_racesVideo30.mp4)
 
 ## 游戏介绍
 
