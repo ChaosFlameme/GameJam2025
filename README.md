@@ -8,7 +8,7 @@
 
 ## 30 秒演示视频
 
-- 直接观看:[`30s演示视频`](https://github.com/user-attachments/assets/ea15be99-29e4-42c8-9f36-93c6e1beb968)
+- 直接观看：https://github.com/user-attachments/assets/ea15be99-29e4-42c8-9f36-93c6e1beb968
 - 下载：[`8_Ricochet_Arms_racesVideo30.mp4`](./8_Ricochet_Arms_racesVideo30.mp4)
 
 ## 游戏介绍
